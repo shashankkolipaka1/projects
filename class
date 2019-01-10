@@ -1,0 +1,58 @@
+format specifiers
+%d ---> int
+%f ---> float
+%s --> strin
+%x--> hex
+--------------
+basic operators
+
++ --addition
+- --subtraction
+/ --division
+* --> multiply
+% --> remainder
+bitwise or -->|
+bitwise and --> &
+bitwsie XOR -->^
+negatin --> ~
+logical or OR
+logical  and  AND
+== --> comparator
+= --> assignment
+a<b
+a>b
+a<=b
+a>=b
+a!=b
+-----------------
+if(a>b):
+	print
+if(condition):
+	print
+else:
+	print
+if(conditon):
+	print
+elif(condition):
+	print
+elif(condition):
+	print
+else:
+	print
+
+------------------
+looping
+
+for loop, while loop
+
+-----------
+l=[(1,2),(3,4)]
+for i,j in sequence:
+	print(i
+---------------
+
+enumerate method  enumerate(sequence,start)
+input()--> for giving references from command line.
+range() ---> for generating sequence range(start,stop,sequence)
+slicing ---> used to create smaller data from sequences. l[start,stop,step]
+ start --- starting index, stop --> one index before this will be taken, step--> not mandatory, by default is 1 and it is required to jump through the elements
